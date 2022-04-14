@@ -4,6 +4,8 @@
   margin-top: 20px;
   display: flex;
   padding: 5px 10px;
+  color: white;
+  margin-top: 0px;
 }
 
 .left-side {
@@ -15,4 +17,11 @@
   display: flex;
     justify-self: center;
     align-self: center;
+}
+
+
+.meme-image{
+  width: 80px;
+  height: 90px;
+  margin-right: 10px;
 }
