@@ -48,3 +48,12 @@ main {
   border: 1px solid;
   text-indent: 5px;
 }
+
+.image-container{
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+ 
+}
+
