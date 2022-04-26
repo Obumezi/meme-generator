@@ -9,7 +9,7 @@ export function Header() {
                 <h1>Meme Generator</h1>
             </div>
             <div className="right-side">
-                <p>Project 3</p>
+                <h1>Project 3</h1>
             </div>
 
         </div>

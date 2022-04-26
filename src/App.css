@@ -15,13 +15,36 @@
 
 .right-side {
   display: flex;
-    justify-self: center;
-    align-self: center;
+  justify-self: center;
+  align-self: center;
 }
 
-
-.meme-image{
+.meme-image {
   width: 80px;
   height: 90px;
   margin-right: 10px;
+}
+
+main {
+  padding: 36px;
+}
+
+.meme-form {
+  display: grid;
+  grid-template: 40px 40px / 1fr 1fr;
+  gap: 10px;
+}
+
+.form-button {
+  grid-column: 1/-1;
+  background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
+  color: white;
+  font-size: 15px;
+  border: none;
+  cursor: pointer;
+}
+.form-input {
+  border-radius: 5px;
+  border: 1px solid;
+  text-indent: 5px;
 }
