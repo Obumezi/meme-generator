@@ -49,11 +49,6 @@ main {
   text-indent: 5px;
 }
 
-.image-container{
- display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
- 
+.images{
+  max-width: 100%;
 }
-
